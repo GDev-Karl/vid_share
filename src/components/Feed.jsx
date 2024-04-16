@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from "react";
+//import React, { useEffect, useState } from "react";
 import { Box, Stack, Typography } from "@mui/material";
 import SideBar from "./Sidebar";
-import Videos from './Videos'
 
 
 const Feed = () => {
@@ -17,14 +16,13 @@ const Feed = () => {
           Copyright @ 2024 Kouam Karl
         </Typography>
       </Box>
-      <Box p={2} sx={{overflow: 'auto', height: '90vh', flex: 2}}>
-        <Typography variant="h4"
-        fontWeight='Bold' mb={2} sx={{color: 'white'}}>
-          <span style={{ color: '#008CFF'}}>New</span>
-          <span style={{ color: '#B70000'}}> Videos</span>
-        </Typography>
 
-        <Videos />
+      <Box p={2} sx={{ overflowY: "auto", height: "90vh", flex: 2 }}>
+        <Typography variant="h4" fontWeight="bold" mb={2} sx={{ color: "white" }}>
+          <span style={{ color: "#008CFF" }}>New </span>
+          <span style={{ color: "#B70000" }}>videos</span>
+        </Typography>
+        
       </Box>
     </Stack>
   )
