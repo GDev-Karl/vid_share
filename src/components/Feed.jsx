@@ -13,7 +13,7 @@ const Feed = () => {
         <Typography className="copyright"
         variant="body2" sx={{ mt: 1.5, 
         color: '#fff'}}>
-          Copyright 2024 Kouam Karl
+          Copyright @ 2024 Kouam Karl
         </Typography>
       </Box>
     </Stack>
