@@ -16,8 +16,8 @@ But VidShare wasn't just about sharing. It was also about solving a personal pro
 
 VidShare represents my vision, even if it's not yet complete or fully realized. While the project has not yet reached its ultimate goal, it's a step towards realizing my dream of sharing knowledge and creating a platform that respects my introverted nature.
 
-- **Deployed Site:** [Link to Deployed Site](https://hilarious-muffin-7168a8.netlify.app/)
-- **Final Project Blog Article:** [Link to Blog Article]()
+### **Deployed Site:** [Link to Deployed Site](https://hilarious-muffin-7168a8.netlify.app/)
+### **Final Project Blog Article:** [Link to Blog Article]()
 - **Author's LinkedIn:** [Karl's LinkedIn Profile](https://www.linkedin.com/in/karl-gerard/)
 
 ## Features
@@ -42,10 +42,6 @@ VidShare represents my vision, even if it's not yet complete or fully realized. 
 - **Backend**: 
   - [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/javascript) : For business logic and API interactions.
   - [**RapidAPI**](https://rapidapi.com/hub): For integrating YouTube APIs.
-
-## Architecture
-
-![Architecture Diagram](<Your_Drive_Link_For_Architecture_Image>)
 
 ### Architecture Description
 
@@ -99,6 +95,12 @@ For major changes, please open an issue first to discuss what you would like to 
 
 - [**Monty Interpreter**](https://github.com/GDev-Karl/monty) : a scripting language that is first compiled into Monty byte codes (Just like Python)
 - [**Simple Shell**](https://github.com/Echewis/simple_shell) : a command line interpreter that replicates the sh program.
+
+## About Me
+
+- **GitHub**: [GDev-Karl](https://github.com/GDev-Karl)
+- **LinkedIn**: [Kouam Karl](https://www.linkedin.com/in/karl-gerard/)
+- **Twitter**: [Karl](https://twitter.com/Karl_Gerard_)
 
 ## Licensing
 
