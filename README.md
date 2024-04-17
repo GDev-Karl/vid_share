@@ -6,6 +6,16 @@
 
 VidShare is a user-friendly platform designed for sharing, discovering, and safeguarding video content online. Developed by Karl, this platform serves as a refuge for both content creators and video enthusiasts alike. With its seamless user experience and robust security features, VidShare offers a dedicated space where users can explore, watch, download, and protect their videos.
 
+## Story
+
+I'm an introvert with a passion for problem-solving and software development. Spending my days alone, immersed in the world of code, is a real refuge for me. I've always nurtured a desire to share my knowledge and expertise with others, but as an introvert, the idea of interacting much with people intimidated me.
+
+The idea of VidShare was born out of this very sentiment. I wanted to share my expertise and knowledge without having to step out of my comfort zone. With VidShare, I could store my videos online, allowing millions of people to access and interact with them, without me having to expose myself socially.
+
+But VidShare wasn't just about sharing. It was also about solving a personal problem. I often wondered how I would be able to keep all this knowledge I'd acquired over time. At some point, my computer memory would no longer be sufficient, and I feared losing everything if I ever lost my computer.
+
+VidShare represents my vision, even if it's not yet complete or fully realized. While the project has not yet reached its ultimate goal, it's a step towards realizing my dream of sharing knowledge and creating a platform that respects my introverted nature.
+
 - **Deployed Site:** [Link to Deployed Site](https://hilarious-muffin-7168a8.netlify.app/)
 - **Final Project Blog Article:** [Link to Blog Article]()
 - **Author's LinkedIn:** [Karl's LinkedIn Profile](https://www.linkedin.com/in/karl-gerard/)
