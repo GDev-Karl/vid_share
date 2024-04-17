@@ -104,4 +104,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## Licensing
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+There is no license for the moment
