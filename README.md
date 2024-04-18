@@ -16,7 +16,7 @@ But VidShare wasn't just about sharing. It was also about solving a personal pro
 
 VidShare represents my vision, even if it's not yet complete or fully realized. While the project has not yet reached its ultimate goal, it's a step towards realizing my dream of sharing knowledge and creating a platform that respects my introverted nature.
 
-### **Deployed Site:** [Link to Deployed Site](https://hilarious-muffin-7168a8.netlify.app/)
+### **Deployed Application:** [Link to Deployed Application](https://hilarious-muffin-7168a8.netlify.app/)
 ### **Final Project Blog Article:** [Link to Blog Article](https://www.linkedin.com/pulse/vidshare-journey-software-engineering-karl-gerard-tekam-kouam-anaie/)
 
 ## Features
